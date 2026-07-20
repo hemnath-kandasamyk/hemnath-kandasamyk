@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=Hemnath%20K%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+
 
 <br/>
 
@@ -38,26 +38,27 @@ I'm an **AI & Data Science undergraduate** at **V.S.B Engineering College, India
 
 <div align="center">
 
-### Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00c6ff?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8e2de2?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Machine Learning & Data Science
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-00c6ff?style=for-the-badge&logo=googlecolab&logoColor=white)
+### Computer Fundamentals
+![OOPS](https://img.shields.io/badge/OOPS-0f2027?style=for-the-badge&logo=codesandbox&logoColor=00c6ff)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2c5364?style=for-the-badge&logo=leetcode&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8e2de2?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-00c6ff?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f2027?style=for-the-badge&logo=visualstudiocode&logoColor=00c6ff)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-00c6ff?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -66,23 +67,20 @@ I'm an **AI & Data Science undergraduate** at **V.S.B Engineering College, India
 ## 💻 Languages & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css,mysql,git,github,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,github,vscode&theme=dark" />
 </div>
 
 ---
 
 ## 📊 Skills Progress
 
-<div align="center">
-
-**Python** &nbsp;`████████████████████░░` 88%
-**Java** &nbsp;&nbsp;&nbsp;&nbsp;`██████████████████░░░░` 80%
-**Machine Learning** &nbsp;`████████████████░░░░░░` 75%
-**Data Science** &nbsp;`█████████████████░░░░░` 78%
-**SQL** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`███████████████░░░░░░░` 70%
-**JavaScript / Web Dev** &nbsp;`██████████████░░░░░░░░` 65%
-
-</div>
+| 💻 Skill | 🚀 Proficiency |
+|----------|----------------|
+| ☕ Java | **85%** |
+| 🐍 Python | **75%** |
+| 🗄️ SQL | **70%** |
+| 🤖 Machine Learning | **80%** |
+| 📊 Data Science | **75%** |
 
 ---
 
@@ -108,25 +106,8 @@ I'm an **AI & Data Science undergraduate** at **V.S.B Engineering College, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemnath-kandasamyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=8e2de2&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath-kandasamyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" width="35%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath-kandasamyk&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=8e2de2&currStreakLabel=00c6ff" width="70%"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=8e2de2&point=ffffff" width="90%"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hemnath-kandasamyk&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 ---
