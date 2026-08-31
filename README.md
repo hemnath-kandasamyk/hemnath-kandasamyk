@@ -199,6 +199,7 @@ System Design       → Scalable Architecture             🔜
 
 ---
 
+
 ## ⭐ Support
 
 <div align="center">
@@ -218,3 +219,62 @@ If you like my work, consider giving my repositories a ⭐ — it motivates me t
 <div align="center">
 <i>Thanks for visiting my profile — let's build something amazing together! 🚀</i>
 </div>
+
+<!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+<p align="center">
+  <i>Consistency is the key to becoming a better developer every day.</i>
+</p>
+<br>
+
+<!-- Live Contribution Activity Graph -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=react-dark&hide_border=true&area=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=minimal&hide_border=true&area=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=minimal&hide_border=true&area=true"
+      alt="GitHub Contribution Heatmap"
+      width="100%"
+    />
+  </picture>
+</p>
+<br>
+
+<!-- Live Streak Stats -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=dark&hide_border=true&background=00000000"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=default&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=default&hide_border=true"
+      alt="GitHub Contribution Streak"
+      width="100%"
+    />
+  </picture>
+</p>
+<br>
+
+<!-- GitHub Profile Link -->
+<p align="center">
+  <a href="https://github.com/hemnath-kandasamyk">
+    <img
+      src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
+  </a>
+</p>
+<!-- ==================== END CONTRIBUTIONS ==================== -->
+
