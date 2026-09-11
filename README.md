@@ -1,15 +1,16 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
-</p>
+
 
 <br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Learner" alt="Typing SVG" />
 </a>
-
+<br/><br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
+</p>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=hemnath-kandasamyk&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
