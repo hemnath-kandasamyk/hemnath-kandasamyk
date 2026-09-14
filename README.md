@@ -281,3 +281,8 @@ If you like my work, consider giving my repositories a ⭐ — it motivates me t
 </p>
 <!-- ==================== END CONTRIBUTIONS ==================== -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake.svg" />
+  <img alt="hemnath's github contribution snake" src="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
