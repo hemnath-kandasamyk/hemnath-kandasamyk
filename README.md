@@ -1,18 +1,21 @@
+
 <div align="center">
-<a href="https://git.io/typing-svg">
   
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Hemnath KK 🎯
+  
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Learner" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=hemnath-kandasamyk&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/hemnath-kandasamyk?label=Followers&style=for-the-badge&color=8e2de2" alt="Followers"/>
+
+<br/><br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
 </p>
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hemnath-kandasamyk&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/hemnath-kandasamyk?label=Followers&style=for-the-badge&color=8e2de2" alt="Followers"/>
 
 </div>
 
@@ -61,14 +64,9 @@ I'm an **AI & Data Science undergraduate** at **V.S.B Engineering College, India
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-00c6ff?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-</div>
+### Icon Overview
+<img src="https://skillicons.dev/icons?i=java,python,mysql,github,vscode&theme=dark" />
 
----
-
-## 💻 Languages & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,github,vscode&theme=dark" />
 </div>
 
 ---
@@ -105,9 +103,31 @@ I'm an **AI & Data Science undergraduate** at **V.S.B Engineering College, India
 
 ## 📈 GitHub Statistics
 
+<p align="center">
+  <i>Consistency is the key to becoming a better developer every day.</i>
+</p>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=8e2de2&point=ffffff" width="90%"/>
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=dark&hide_border=true&background=00000000"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=default&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -162,12 +182,12 @@ I'm an **AI & Data Science undergraduate** at **V.S.B Engineering College, India
 <br/>
 
 ```text
-Foundations        → Python, Java, SQL, DSA          ✅
-Data Science       → Pandas, NumPy, EDA, Visualization ✅
-Machine Learning   → Scikit-learn, Model Building     🔄
-Deep Learning       → Neural Networks, CNN, RNN        🔜
-Generative AI / LLMs → Prompting, Fine-tuning, RAG      🔜
-System Design       → Scalable Architecture             🔜
+Foundations          → Python, Java, SQL, DSA           ✅
+Data Science         → Pandas, NumPy, EDA, Visualization ✅
+Machine Learning     → Scikit-learn, Model Building      🔄
+Deep Learning        → Neural Networks, CNN, RNN         🔜
+Generative AI / LLMs → Prompting, Fine-tuning, RAG       🔜
+System Design        → Scalable Architecture             🔜
 ```
 
 </details>
@@ -200,7 +220,6 @@ System Design       → Scalable Architecture             🔜
 
 ---
 
-
 ## ⭐ Support
 
 <div align="center">
@@ -213,74 +232,20 @@ If you like my work, consider giving my repositories a ⭐ — it motivates me t
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%"/>
-
-<div align="center">
-<i>Thanks for visiting my profile — let's build something amazing together! 🚀</i>
-</div>
-
-<!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
-<p align="center">
-  <i>Consistency is the key to becoming a better developer every day.</i>
-</p>
-<br>
-
-<!-- Live Contribution Activity Graph -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=react-dark&hide_border=true&area=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=minimal&hide_border=true&area=true"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=hemnath-kandasamyk&theme=minimal&hide_border=true&area=true"
-      alt="GitHub Contribution Heatmap"
-      width="100%"
-    />
-  </picture>
-</p>
-<br>
-
-<!-- Live Streak Stats -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=dark&hide_border=true&background=00000000"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=default&hide_border=true"
-    />
-    <img
-      src="https://streak-stats.demolab.com/?user=hemnath-kandasamyk&theme=default&hide_border=true"
-      alt="GitHub Contribution Streak"
-      width="100%"
-    />
-  </picture>
-</p>
-<br>
-
-<!-- GitHub Profile Link -->
-<p align="center">
-  <a href="https://github.com/hemnath-kandasamyk">
-    <img
-      src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Profile"
-    />
-  </a>
-</p>
-<!-- ==================== END CONTRIBUTIONS ==================== -->
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake.svg" />
   <img alt="hemnath's github contribution snake" src="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%"/>
+
+<div align="center">
+<i>Thanks for visiting my profile — let's build something amazing together! 🚀</i>
+</div>
