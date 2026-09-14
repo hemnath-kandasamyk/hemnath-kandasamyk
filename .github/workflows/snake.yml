@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: hemnath-kandasamyk
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2390EE90,%2332CD32&color_dots=%23F3E5F5,%23D8B4E2,%23C084D9,%23A855C7,%237B2CBF&color_empty=%23FFFFFF&color_empty_text=%23E8E8E8
+            dist/github-contribution-grid-snake.svg?color_snake=%2390EE90&color_dots=%23C0C0C0,%23D8B4E2,%23C084D9,%23A855C7,%237B2CBF&color_empty=%23FFFFFF&color_empty_text=%23C0C0C0
             dist/github-contribution-grid-snake-dark.svg?color_snake=%2300FF7F,%2300FA9A&color_dots=%232D1B3D,%234A2B5C,%237B2CBF,%23A855C7,%23D8B4E2&color_empty=%230D1117&color_empty_text=%23161B22
 
       - name: push github-contribution-grid-snake.svg to the output branch
