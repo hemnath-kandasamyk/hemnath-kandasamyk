@@ -8,22 +8,26 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake svgs
         uses: Platane/snk@v3
         with:
-          github_user_name: hemnath-kandasamyk
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2334D399&color_dots=%23161C21,%231F6B4D,%2334D399,%2360E6B0,%23F472B6,%23EC4899&color_empty=%230D1117&color_empty_text=%238B949E
-            dist/github-contribution-grid-snake.svg?color_snake=%2334D399&color_dots=%23E2E8F0,%23A7F3D0,%2334D399,%2360E6B0,%23F472B6,%23EC4899&color_empty=%23FFFFFF&color_empty_text=%23CBD5E1
+            dist/snake-dark.svg?color_snake=%2322D3EE&color_dots=%23161B22,%234C1D95,%237C3AED,%23A855F7,%23F0ABFC&color_empty=%23161B22
+            dist/snake.svg?color_snake=%230891B2&color_dots=%23EDE9FE,%23C4B5FD,%23A78BFA,%238B5CF6,%236D28D9&color_empty=%23EDE9FE
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to snake-output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: snake-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
