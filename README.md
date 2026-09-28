@@ -242,6 +242,18 @@ If you like my work, consider giving my repositories a ⭐ — it motivates me t
   <img alt="hemnath's github contribution snake" src="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+<div align="center">
+
+## 🎮 Pac-Man vs My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hemnath-kandasamyk/hemnath-kandasamyk/output/pacman-contribution-graph.svg" />
+</picture>
+
+</div>
+
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%"/>
