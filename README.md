@@ -254,6 +254,14 @@ If you like my work, consider giving my repositories a ⭐ — it motivates me t
 
 </div>
 
+<div align="center">
+
+## 🧱 My 3D Contribution Calendar
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" />
+
+</div>
+
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%"/>
